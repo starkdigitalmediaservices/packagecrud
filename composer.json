@@ -1,0 +1,8 @@
+{
+    "name": "laravelcrud/crudfolder",
+    "description": "laravelcrud",
+    "type": "library",
+    "license": "1.0.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
